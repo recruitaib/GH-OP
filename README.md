@@ -53,9 +53,16 @@ Now ask Oracle about any role's funnel and it answers from those reports.
 
 This is the **second half** of the session: connecting the same pattern to your live Greenhouse data.
 
-1. Download **[`part-2-greenhouse-ats/gh-skills.zip`](part-2-greenhouse-ats/gh-skills.zip)**.
-2. Unzip it.
-3. Open **`GETTING-STARTED.md`** inside and follow the steps.
+Everything's already unzipped in **[`part-2-greenhouse-ats/gh-skills/`](part-2-greenhouse-ats/gh-skills/)** — start by opening **[`GETTING-STARTED.md`](part-2-greenhouse-ats/gh-skills/GETTING-STARTED.md)** and follow the steps.
+
+The five skills inside:
+- `ops-assist` — your org context layer (load this once)
+- `gh-talent-context` — org-wide pipeline intelligence
+- `gh-role-intelligence` — single-req deep dives
+- `gh-ats-hygiene` — find and fix ATS data debt
+- `gh-compound-workflows` — Greenhouse + interview notes + benchmarks
+
+*Prefer one file?* Download **[`gh-skills.zip`](part-2-greenhouse-ats/gh-skills.zip)** instead.
 
 ---
 
