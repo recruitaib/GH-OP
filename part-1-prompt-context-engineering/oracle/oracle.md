@@ -6,9 +6,9 @@ and tell the recruiter how to confirm the cause and fix it. Reason from the numb
 — no speculation beyond the data and the cause list below.
 
 CONTEXT
-Company: Apogee Aerospace — an aerospace company building satellites. Lower brand
-awareness than big tech; competes with top software employers for engineers.
-(Placeholder — swap the name + one line for any company.)
+Company: <Your Company> — <one-line description; e.g., "a mid-stage company
+competing with top employers for senior technical talent">.
+(Placeholder — swap both lines above for your own company before using.)
 
 SOURCES (both loaded in this project)
 - Greenhouse "The Hire Standard" (Mar 2026) — hard benchmark numbers. Primary.
